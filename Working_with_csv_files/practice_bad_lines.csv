@@ -1,0 +1,36 @@
+id,name,age,city,email,salary,department,joining_date,status
+8,Name8,40,Houston,name8@example.com,87128,Marketing,2021-07-16,Active
+21,Name21,24,Los Angeles,name21@example.com,75632,Marketing,2022-03-21,Inactive
+6,Name6,28,New York,name6@example.com,64568,Marketing,2021-03-14,Inactive
+27,Name27,29,Phoenix,name27@example.com,85363,IT,2023-01-16,Active
+34
+13,Name13,42,Los Angeles,name13@example.com,98369,Marketing,2021-03-17,Inactive
+15,Name15,60,Houston,name15@example.com,62427,Marketing,2021-02-28,Inactive
+10,Name10,50,New York,name10@example.com,54937,IT,2021-06-16,Active
+26,Name26,30,Phoenix,name26@example.com,100203,IT,2023-04-23,Inactive
+31,BadRow1,35,Miami
+7,Name7,51,Chicago,name7@example.com,50259,Marketing,2021-02-15,Inactive
+30,Name30,31,Chicago,name30@example.com,111522,HR,2023-07-28,Active
+12,Name12,55,New York,name12@example.com,103500,HR,2021-06-22,Inactive
+20,Name20,38,Chicago,name20@example.com,64634,Sales,2020-09-12,Active
+4,Name4,32,New York,name4@example.com,73032,Sales,2020-07-11,Inactive
+19,Name19,28,Phoenix,name19@example.com,105262,Sales,2020-09-19,Active
+2,Name2,26,Chicago,name2@example.com,84372,Sales,2020-05-15,Active
+This,is,just,a,string,not,a,valid,row,at,all
+32,BadRow2,29,Dallas,bad@example.com,50000,Finance,2022-03-15,Active,Extra
+24,Name24,44,Chicago,name24@example.com,105885,HR,2021-08-15,Active
+5,Name5,38,Phoenix,name5@example.com,61651,IT,2021-08-10,Active
+14,Name14,29,Phoenix,name14@example.com,112518,HR,2023-07-10,Inactive
+9,Name9,29,Los Angeles,name9@example.com,83975,HR,2023-07-27,Active
+23,Name23,53,Los Angeles,name23@example.com,104317,IT,2021-09-24,Active
+22,Name22,35,New York,name22@example.com,90882,Marketing,2023-05-23,Inactive
+16,Name16,38,Los Angeles,name16@example.com,100779,IT,2021-08-24,Active
+28,Name28,42,Houston,name28@example.com,40942,HR,2021-07-22,Inactive
+29,Name29,26,Phoenix,name29@example.com,106563,HR,2022-06-23,Active
+17,Name17,28,Phoenix,name17@example.com,75011,Marketing,2021-01-25,Inactive
+25,Name25,22,Los Angeles,name25@example.com,46131,IT,2023-01-23,Inactive
+11,Name11,48,Los Angeles,name11@example.com,49174,HR,2023-07-10,Inactive
+18,Name18,57,Houston,name18@example.com,67718,Sales,2020-04-17,Inactive
+33,,,,,,,,
+1,Name1,28,Houston,name1@example.com,77083,Marketing,2021-06-11,Inactive
+3,Name3,54,Phoenix,name3@example.com,101277,Sales,2020-04-12,Inactive
