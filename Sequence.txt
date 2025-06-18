@@ -1,0 +1,19 @@
+Day_8_Working_with_csv_files
+
+Day_9_Working_with_JSON_SQL
+
+Day_10_Fetching-data-through-API
+
+Day_12_Analyzing_Data
+
+Day_13_Univariate-EDA
+
+Day_14_Multivariate-EDA
+
+Day_15_yData_Profiing
+
+Day_18_Handing_Missing_Values_Dropping
+
+Day 19 Handing Missing Values Imputing Using Mean & Median in Pandas
+
+Day 20 Handing Missing Values Imputing Using Mean & Median in Simple Imputer (Scikit-Learn Library) 
