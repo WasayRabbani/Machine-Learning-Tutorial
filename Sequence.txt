@@ -17,3 +17,8 @@ Day_18_Handing_Missing_Values_Dropping
 Day 19 Handing Missing Values Imputing Using Mean & Median in Pandas
 
 Day 20 Handing Missing Values Imputing Using Mean & Median in Simple Imputer (Scikit-Learn Library) 
+
+Day 21 Handing Missing Values Imputing Using Arbitrary & End of Distribution Value using Pandas and Simple Imputer Class
+
+Day 22 Handing Missing Values Imputing Using Mode & 'Missing' word in categorical column
+
