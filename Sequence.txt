@@ -1,16 +1,16 @@
-Day_8_Working_with_csv_files
+Day 8 Working_with_csv_files
 
-Day_9_Working_with_JSON_SQL
+Day 9 Working_with_JSON_SQL
 
-Day_10_Fetching-data-through-API
+Day 10 Fetching-data-through-API
 
-Day_12_Analyzing_Data
+Day 12 Analyzing_Data
 
-Day_13_Univariate-EDA
+Day 13 Univariate-EDA
 
-Day_14_Multivariate-EDA
+Day 14 Multivariate-EDA
 
-Day_15_yData_Profiing
+Day 15 yData_Profiing
 
 Day_18_Handing_Missing_Values_Dropping
 
@@ -21,4 +21,6 @@ Day 20 Handing Missing Values Imputing Using Mean & Median in Simple Imputer (Sc
 Day 21 Handing Missing Values Imputing Using Arbitrary & End of Distribution Value using Pandas and Simple Imputer Class
 
 Day 22 Handing Missing Values Imputing Using Mode & 'Missing' word in categorical column
+
+Day 23 Handing Missing Values using KNN Imputer (Multi-variate Analysis)
 
